@@ -1,1 +1,2 @@
 # Web-Application-Springboot
+A web application with MySQL Workbench using Spring Boot framework designed for an instructor to manage his courses and the student registrations for each course. We used Strategy which is a bevarioral design pattern and Scrum framework for project management.To write automated tests for the application we used Junit and Mockito.The IDE we used for this project is eclipse and you should load the database before running the code. We also have a link with live demonstation of our application in youtube.
